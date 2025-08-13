@@ -1,4 +1,4 @@
-# Student-Airborne-Research-Program-SARP-
+# Student-Airborne-Research-Program-SARP
 This is a collection of the notebooks I completed during my time in NASA's Student Airborne Research Program (SARP) on the East Coast as a member of the Oceans research group. 
 
 My summer project investigated the impacts of the January 2025 California wildfires on phytoplankton blooms off the southern California coast in the Pacific Ocean. I was mentored by Sarah Lang, a Ph.D. candidate at the University of Phode Island studying physical oceanography, and Dr. Tom Bell, an Associate Scientist at Woods Hole Oceanographic Institution. I primarily used satellite data for this research, working mostly with the Suomi National Polar-Orbiting Partnership's (SNPP) Visible Infrared Imaging Radiometer Suite (VIIRS) as well as the Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite that was launched in 2024. More information covering these satellites can be found in the DATA INFO directory.
