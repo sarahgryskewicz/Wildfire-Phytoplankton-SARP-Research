@@ -1,5 +1,11 @@
 # Information on Satellite Data Used in this Project
-*All image credits to NASA*
+Satellite products are available at different processing levels. This study primarily relied on L3 gridded data. However, we began to explore the use of L2 data as well, especially for atmospheric products and assessing surface loading-- working to try to detect ash deposition.</p>
+More information on satellite processing levels can be found:
+- [From NASA Ocean Color](https://oceancolor.gsfc.nasa.gov/resources/docs/product-levels/)
+- [From NOAA](https://www.star.nesdis.noaa.gov/atmospheric-composition-training/satellite_data_processing_levels.php)
+
+Additional resources on ALL satellite platforms can be accessed [here from NASA](https://www.earthdata.nasa.gov/data/platforms/space-based-platforms)
+> *Other platforms can be found [here from NASA](https://www.earthdata.nasa.gov/data/platforms)*
 ***
 </p>
 
@@ -7,6 +13,7 @@
 <img align="right" width="400" height="450" alt="snpp"  src="https://github.com/user-attachments/assets/11734045-4c86-4853-ad0f-3e5a0bcbdcdd" alt="image" />
 
 - Launched on 28 October 2011
+- Multispectral imaging: Using a few broad bands for remote sensing
 - Satellite-derived products are used to investigate...
 >- $${\color{Aqua}Aerosols}$$
 >- $${\color{Orangered}Fire, smoke \space plumes}$$
@@ -25,9 +32,13 @@
 </div>
 
 - Launched on 8 February 2024
+- Hyperspectral imaging: Using hundreds of narrow bands for remote sensing. More accuracy and detail
 - Satellite-derived products are used to study Earth's oceans and atmosphere
 - Primary instruments on the platform include...
 >- $${\color{Aquamarine}Ocean \space color \space instrument \space (OCI)}$$
 >- $${\color{LightSkyBlue}Multi-angle \space polarimeters: HARP2 \space and \space SPEXone}$$
 - More information can be found [here](https://pace.oceansciences.org/about.htm) </p>
 - See the PACE [homepage!](https://pace.gsfc.nasa.gov/)
+
+***
+*All image credits to NASA*</p>
