@@ -17,5 +17,5 @@ Future directions with this project involve..
 - *__Phytoplankton community group:__* If there was no bloom response, could there have been a shift in phytoplankton types within the area?
 - *__Emission source type:__* What’s the influence of forested emissions versus urban emissions on phytoplankton/phytoplankton blooms?
 <p align="center">
-<img width="240" height="350" alt="nasa logo" src="https://github.com/user-attachments/assets/71192d75-063e-445f-8c68-f5a22bcb0adc"  hspace="100">  <img width="210" height="350" alt="SARP-logo" src="https://github.com/user-attachments/assets/56fd6944-1306-4eac-a35e-1922138500ea">
+<img width="240" height="350" alt="nasa logo" src="https://github.com/user-attachments/assets/71192d75-063e-445f-8c68-f5a22bcb0adc"  hspace="10">  <img width="210" height="350" alt="SARP-logo" src="https://github.com/user-attachments/assets/56fd6944-1306-4eac-a35e-1922138500ea">
 </p>
