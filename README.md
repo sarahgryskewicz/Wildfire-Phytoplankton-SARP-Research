@@ -13,5 +13,5 @@ Having only ~3-4 weeks for data analysis on this topic, there is a lot of future
 - Seasonality: How would a summertime wildfire impact phytoplankton and phytoplankton blooms in the same region of interest?
 - Phytoplankton community group: If there was no bloom response, could there have been a shift in phytoplankton types within the area?
 - Emission source type: What’s the influence of forested emissions versus urban emissions on phytoplankton/phytoplankton blooms?
-<img width="800" height="846" alt="nasa logo" src="https://github.com/user-attachments/assets/71192d75-063e-445f-8c68-f5a22bcb0adc" />
+<img width="400" height="300" alt="nasa logo" src="https://github.com/user-attachments/assets/71192d75-063e-445f-8c68-f5a22bcb0adc" />
 <img width="1800" height="1809" alt="SARP-logo" src="https://github.com/user-attachments/assets/56fd6944-1306-4eac-a35e-1922138500ea" />
