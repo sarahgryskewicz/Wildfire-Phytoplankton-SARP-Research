@@ -42,3 +42,6 @@ Additional resources on ALL satellite platforms can be accessed [here from NASA]
 
 ***
 *All image credits to NASA*</p>
+## Region of Interest
+<p align="center">
+<img width="500" height="500" alt="ROI" src="https://github.com/user-attachments/assets/693a7151-1be1-4d93-aa47-0ade16736fca" />
